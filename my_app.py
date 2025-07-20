@@ -1,5 +1,4 @@
 import streamlit as st
-import joblib
 import numpy as np
 
 st.title("Salary Prediction App")
