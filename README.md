@@ -3,7 +3,7 @@
 Employee Salary Prediction
 This project focuses on predicting employee salaries based on various factors using a Linear Regression model. It includes data exploration, visualization, model training, and a user-friendly web application built with Streamlit for interactive predictions.
 
-Table of Contents
+**Table of Contents**
 Project Overview
 
 Features
